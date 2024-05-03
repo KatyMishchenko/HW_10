@@ -1,0 +1,170 @@
+    1  pwd
+    2  ls -l
+    3  cd/c/Users/пк/
+    4  cd /c/Users/пк/
+    5  cd /d/Users/username/ 
+    6  cd /c/Users/пк/
+    7  cd /d/Users/пк/
+    8  cd Documents/
+    9  mkdir test_dir1
+   10  ls
+   11  ls -l
+   12  cd test_dir1
+   13  pwd
+   14  clear
+   15  clear
+   16  touch test.txt
+   17  clear
+   18  touch test.txt 
+   19  ls -l
+   20  vin test txt
+   21  vin test.txt
+   22  vin test.txt
+   23   clear
+   24  test_dir1
+   25  clear
+   26  cd test_dir1
+   27  ls -l
+   28  clear
+   29  cd test_dir1 
+   30  clear
+   31  cd test_dir1
+   32  clear
+   33  pwd
+   34  git config --global user.name KatyMishchenko
+   35  git config --get user.email kate.korsovskaya@gmail.com
+   36  git config --get user.name
+   37  git cinfig --get user.email
+   38  git config --get user.email
+   39  git config --get user.emailclear
+   40  clear
+   41  pwd
+   42  git config --global user.name KatyMishchenko
+   43  git config --global user.email katy.korsovskaya@gmail.com
+   44  git config --get user.name
+   45  git config --get user.email
+   46  git clone https://github.com/KatyMishchenko/repo_test2.git
+   47  clear
+   48  pwd
+   49  git config --global user.name KatyMishchenko
+   50  git config --global user.email kate.korsovskaya@gmail.com
+   51  git config --get user.name
+   52  git config --get user.email
+   53  git clone https://github.com/KatyMishchenko/repo_test2.git
+   54  git  clone https://github.com/KatyMishchenko/repo_test2
+   55  сдуфк
+   56  clear
+   57  test_dir1 %
+   58  test_dir1
+   59  /c/Users/пк/Documents/test_dir1
+   60  test_dir1
+   61  test_dir1 %
+   62  clear
+   63  pwd
+   64  cd /c/Users/пк/Documents/test_dir1
+   65  git config --global user.name KatyMishchenko
+   66  git config --global user.email kate.korsovskaya@gmail.com
+   67  git config --get user.name
+   68  git config --get user.email
+   69  git clone https://github.com/KatyMishchenko/repo_test2.git
+   70  ls -l
+   71  cd repo-test2
+   72  git status
+   73  clear
+   74  clear
+   75  git config --global user.name KatyMishchenko
+   76  git config --global user.email kate.korsovskaya@gmail.com
+   77  git config --get user.name
+   78  git config --get user.email
+   79  git clone https://github.com/KatyMishchenko/repo_test2.git
+   80  git clone https://github.com/KatyMishchenko/repo_test2.git
+   81  clear
+   82  git config --global user.name KatyMishchenko
+   83  пк@DESKTOP-GGC5J4O MINGW64 ~/Documents/test_dir1
+   84  $ git config --global user.email kate.korsovskaya@gmail.com
+   85  пк@DESKTOP-GGC5J4O MINGW64 ~/Documents/test_dir1
+   86  $ git config --get user.name
+   87  KatyMishchenko
+   88  пк@DESKTOP-GGC5J4O MINGW64 ~/Documents/test_dir1
+   89  $ git config --get user.email
+   90  kate.korsovskaya@gmail.com
+   91  clear
+   92  git config --global user.name KatyMishchenko
+   93  git config --global user.email kate.korsovskaya@gmail.com
+   94  git config --get user.name
+   95  git config --global user.email
+   96  git clone https://github.com/KatyMishchenko/repo_test2.git
+   97  clear
+   98  git config --global user.name KatyMishchenko
+   99  git config --global user.email kate.korsovskaya@gmail.com
+  100  git config --get user.name
+  101  git config --get user.email
+  102  git clone https://github.com/KatyMishchenko/test_repo3.git
+  103  ls -l
+  104  git checkout -b test_branch
+  105  git branch
+  106  cd /c/Documents/HW_10
+  107  clear
+  108  -c && rm ~/.bash_history
+  109  clear
+  110  -c 
+  111  clear
+  112  -c &&rm ~/.bash_history
+  113  -c&&rm ~/.bash_history
+  114  clear
+  115  cd /c/Downloads/HW_10
+  116  cd /C/Documents/HW_10
+  117  git config --global user name KatyMishchenko
+  118  clear
+  119  cd /c/Documents/HW_10
+  120  git config --global user.name KatyMishchenko
+  121  git config --global user.email kate.korsovskaya@gmail.com
+  122  git config --get user.name
+  123  git config --get user.email
+  124  git clone https://github.com/KatyMishchenko/HW_10.git
+  125  ls -l
+  126  cd /c/Documents/HW_10
+  127  cd HW_10
+  128  ls -l
+  129  ls -la
+  130  touch text_ignore.txt
+  131  vim .gitignore
+  132  git config --global user.KatyMishchenko
+  133  git config --global user.email kate.korsovskaya@gmail.com
+  134  git clone https://github.com/KatyMishchenko/HW_10.git
+  135  cd /c/Documents/HW_10
+  136  touch text_ignore.txt
+  137  vim .gitignore
+  138  cd /c/Documents/HW_10
+  139  git config --global user.name KatyMishchenko
+  140  git config --global user.email kate.korsovskaya@gmail.com
+  141  git clone https://github.com/KatyMishchenko/HW_10.git
+  142  touch text_ignore.txt
+  143  cd HW_10
+  144  vim .gitignore
+  145  git status
+  146  git add
+  147  git commit -m "file added text_ignore.txt"
+  148  touch main_test.txt
+  149  git add .
+  150  git commit -m "git add main_test.txt"
+  151  cd /c/Documents/HW_10
+  152  cd /c/Documents/HW_10/HW_10
+  153  git checkout -b develop
+  154  touch develop_test.txt
+  155  git add .
+  156  git commit -m "Add develop_test.txt file"
+  157  notepad develop_test.txt
+  158  vim develop_test.txt
+  159  git add .
+  160  git commit -m "Created develop_test.txt file"
+  161  vim develop_test.txt
+  162  git status
+  163  git add .
+  164  git commit -m "Made changes to develop_test1.txt"
+  165  cd /c/Documents/HW_10/HW_10
+  166  git checkout main
+  167  git merge develop
+  168  git log
+  169  cd /c/Documents/HW_10/HW_10
+  170  history > command_list.csv
